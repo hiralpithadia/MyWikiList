@@ -1,0 +1,84 @@
+header {
+  color: #fff;
+  background-color: #1ae;
+  font-size: 20px;
+  text-align: center;
+  padding: 20px;
+}
+
+section {
+  padding: 40px;
+}
+
+.creator article {
+  display: grid;
+  grid-template-rows: auto auto;
+}
+
+table {
+  display: inline-block;
+}
+
+table,
+footer {
+  justify-self: center;
+}
+
+th,
+td {
+  padding: 5px 10px;
+}
+
+th {
+  text-align: left;
+}
+
+thead,
+tfoot {
+  font-size: 14px;
+  font-weight: normal;
+  color: #666;
+}
+
+tfoot td {
+  text-align: center;
+}
+
+input {
+  font-size: 18px;
+  padding: 4px 8px;
+}
+
+button {
+  padding: 6px 10px;
+}
+
+.desc {
+  width: 500px;
+}
+
+.result {
+  display: grid;
+  justify-content: center;
+}
+
+.result article {
+  padding: 10px;
+  margin: 10px;
+  width: 600px;
+  outline: 1px dashed #ccc;
+}
+
+.result h1 {
+  font-size: 18px;
+  margin: 10px 0 20px;
+}
+
+.result p {
+  margin: 6px 0;
+}
+
+.result p {
+  margin: 6px 0;
+}
+
